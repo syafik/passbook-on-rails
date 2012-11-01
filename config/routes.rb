@@ -1,4 +1,6 @@
 PassbookOnRails::Application.routes.draw do
+  resources :pass_locations
+
   resources :passbook_passes
 
   # The priority is based upon order of creation:

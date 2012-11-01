@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  pass_location_name: MyString
+  pass_location_longitude: MyString
+  pass_location_latitude: MyString
+
+two:
+  pass_location_name: MyString
+  pass_location_longitude: MyString
+  pass_location_latitude: MyString

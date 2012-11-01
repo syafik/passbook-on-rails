@@ -11,7 +11,15 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121101171015) do
+ActiveRecord::Schema.define(:version => 20121101175952) do
+
+  create_table "pass_locations", :force => true do |t|
+    t.string   "pass_location_name"
+    t.string   "pass_location_longitude"
+    t.string   "pass_location_latitude"
+    t.datetime "created_at",              :null => false
+    t.datetime "updated_at",              :null => false
+  end
 
   create_table "passbook_passes", :force => true do |t|
     t.integer  "format_version"

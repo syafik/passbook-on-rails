@@ -1,0 +1,2 @@
+class PassLocationsController < ApplicationController
+end
