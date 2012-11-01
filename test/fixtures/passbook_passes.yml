@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  format_version: 1
+  pass_type_identifier: MyString
+  serial_number: MyString
+  team_identifier: MyString
+  web_service_url: MyString
+  authentication_token: MyString
+  relevant_date: 2012-11-01 10:10:15
+  barcode_message: MyString
+  barcode_format: MyString
+  barcode_message_encoding: MyString
+  organization_name: MyString
+  logo_text: MyString
+  pass_description: MyString
+  foreground_color: MyString
+  background_color: MyString
+  pass_style: MyString
+
+two:
+  format_version: 1
+  pass_type_identifier: MyString
+  serial_number: MyString
+  team_identifier: MyString
+  web_service_url: MyString
+  authentication_token: MyString
+  relevant_date: 2012-11-01 10:10:15
+  barcode_message: MyString
+  barcode_format: MyString
+  barcode_message_encoding: MyString
+  organization_name: MyString
+  logo_text: MyString
+  pass_description: MyString
+  foreground_color: MyString
+  background_color: MyString
+  pass_style: MyString
